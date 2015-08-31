@@ -41,6 +41,7 @@ int main(){
 void printMenu(){
 	int choice;
 	do{
+		choice = 0;
 		printf("Performance assessment:\n");
 		printf("-----------------------\n");
 		printf("1) Enter parameters\n");
